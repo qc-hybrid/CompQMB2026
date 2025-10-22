@@ -27,7 +27,7 @@ March 2 - 5, 2026
 -->
 
 # Venue
-那覇市職員厚生会 Naha Kouseikai (GPS: 26.223279029350884, 127.69395848465435)
+那覇市職員厚生会 Naha Kouseikai ([Google Map](https://maps.app.goo.gl/MRRnJZMSgkmPLGAv7), GPS: 26.223279029350884, 127.69395848465435)
 
 The venue is located in Naha, Okinawa, Japan, which is accessible from the airport by public transportation.
 
