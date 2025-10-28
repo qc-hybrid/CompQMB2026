@@ -53,6 +53,7 @@ To be announced.
 * Tsuyoshi Okubo (University of Tokyo)
 * Wataru Mizukami (Osaka University)
 * Takahiro Misawa (University of Tokyo)
+* Ryosuke Akashi (QST)
 
 # Support
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
