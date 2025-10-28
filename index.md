@@ -48,12 +48,14 @@ To be announced.
 # Invited speakers (in alphabetical order)
 To be announced.
 
-# Organizers
-* Hiroshi Shinaoka (Saitama University)
-* Tsuyoshi Okubo (University of Tokyo)
+# Organizers (in alphabetical order)
+* Ryosuke Akashi (QST)
 * Wataru Mizukami (Osaka University)
 * Takahiro Misawa (University of Tokyo)
-* Ryosuke Akashi (QST)
+* Tsuyoshi Okubo (University of Tokyo)
+* Hiroshi Shinaoka (Saitama University)
+* Tatsuya Yokota (Nagoya Institute of Technology)
+* Qibin Zhao (Riken)
 
 # Support
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<img src="./QCHybrid-logo-RGB03.png" alt="JSPS QC Hybrid" style="height: 30px;"/>
