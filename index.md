@@ -61,7 +61,5 @@ To be announced.
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<br><img src="./QCHybrid-logo-RGB02.png" alt="JSPS QC Hybrid" style="height: 80px;"/>
 * FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"<br><img src="./aspire_h_logo.png" alt="ASPIRE" style="height: 60px;"/>
 
-
-
 # Contact
 [compqmb2026@googlegroups.com](mailto:compqmb2026@googlegroups.com)
