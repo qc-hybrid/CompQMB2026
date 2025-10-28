@@ -56,10 +56,10 @@ To be announced.
 * Ryosuke Akashi (QST)
 
 # Support
-* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
-* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"
+* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<img src="./QCHybrid-logo-RGB03.png" alt="JSPS QC Hybrid" style="height: 30px;"/>
+* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"<img src="./aspire_h_logo.png" alt="ASPIRE" style="height: 30px;"/>
 
-<img src="./QCHybrid-logo-RGB03.png" alt="FWF" width="25%"/>
+
 
 # Contact
 shinaoka@saitama-u.ac.jp (Please replace \_at\_ with @.)
