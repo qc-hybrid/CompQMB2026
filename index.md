@@ -58,8 +58,8 @@ To be announced.
 * Qibin Zhao (Riken)
 
 # Support
-* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<img src="./QCHybrid-logo-RGB03.png" alt="JSPS QC Hybrid" style="height: 30px;"/>
-* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"<img src="./aspire_h_logo.png" alt="ASPIRE" style="height: 30px;"/>
+* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<br><img src="./QCHybrid-logo-RGB03.png" alt="JSPS QC Hybrid" style="height: 30px;"/>
+* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"<br><img src="./aspire_h_logo.png" alt="ASPIRE" style="height: 30px;"/>
 
 
 
