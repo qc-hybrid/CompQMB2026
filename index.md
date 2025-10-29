@@ -54,6 +54,7 @@ To be announced.
 * Takahiro Misawa (University of Tokyo)
 * Tsuyoshi Okubo (University of Tokyo)
 * Hiroshi Shinaoka (Saitama University)
+* Tomohiro Sogabe (Nagoya University)
 * Tatsuya Yokota (Nagoya Institute of Technology)
 * Qibin Zhao (Riken)
 
