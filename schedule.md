@@ -16,7 +16,7 @@
 - **[Session 4](#session-4)** (14:55–16:10, 75 min)
   - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
-- **Poster session** (16:20–18:20, 120 min)
+ 
 
 ## Tuesday, March 3
 - **[Session 5](#session-5)** (09:00–10:15, 75 min)
@@ -35,6 +35,7 @@
   - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Poster session** (16:20–18:20, 120 min)
+- **Banquet** (19:00–21:00)
 
 ## Wednesday, March 4
 - **[Session 9](#session-9)** (09:00–10:15, 75 min)
@@ -52,6 +53,7 @@
 - **[Session 12](#session-12)** (14:55–16:10, 75 min)
   - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Poster session** (16:20–18:20, 120 min)
 - **End of day**
 
 ## Thursday, March 5
