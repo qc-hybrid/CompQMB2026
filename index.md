@@ -43,7 +43,10 @@ We will provide hotel rooms for invited speakers. Other attendees may arrange th
 Free
 
 # Registration
-To be announced.
+Will be opened soon.
+
+# VISA Information
+[Application form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUQkRZM0tPUldOUVBSOE5IN1BEOUVYR1JHTC4u)
 
 # Invited speakers (in alphabetical order)
 To be announced.
