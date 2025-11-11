@@ -5,7 +5,7 @@ title:  Current and Future Computational Approaches to Quantum Many-Body Systems
 # About
 This workshop aims to build a community bridging applied mathematics and computational physics, with a focus on tensor networks, quantum computing, and related computational methods for quantum many-body systems. We bring together researchers from both fields to explore the intersection of mathematical techniques and physical applications, fostering collaboration and knowledge exchange. The primary goal is to establish and strengthen connections between the applied mathematics and computational physics communities working on these cutting-edge topics.
 
-A related hackathon will be held on March 6 - 8 (just after the workshop) in Naha. See [here](https://qc-hybrid.github.io/hackathon_in_okinawa_2026) for more details.
+A related hackathon will be held on March 6 - 8 (just after the workshop) in Naha. See [here](https://qc-hybrid.github.io/CompPhysHack2026/) for more details.
 
 # Dates 
 March 2 - 5, 2026
