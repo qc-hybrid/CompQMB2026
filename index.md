@@ -60,6 +60,7 @@ The deadline for registration is January 31, 2026.
 
 # Invited speakers (in alphabetical order)
 
+* Sangkook Choi (KIAS, Korea)
 * Kazu Ghalamkari (Technical University of Denmark)
 * Emi Minamitani (Osaka University, Japan)
 * Lei Wang (Institute of Physics Chinese Academy of Sciences, Beijing, China)
