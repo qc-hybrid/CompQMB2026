@@ -52,11 +52,9 @@ The number of participants is limited to roughly 100.
 We may close the registration once the number of participants reaches the limit.
 
 The registration will be open soon.
-<!--
 The deadline for registration is January 31, 2026.
 
 [Registration form](https://forms.gle/xRE878BgyQF4JthD9)
--->
 
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)
