@@ -1,6 +1,6 @@
 学術変革領域B「量子古典融合」を中心として、2026年3月、計算物理分野の国際イベントが2つ連続して開催されます。
 
-3月2日〜5日：CompQMB2026 国際会議
+3月2日〜5日：Current and Future Computational Approaches to Quantum Many-Body Systems 2026 (CompQMB2026) 国際会議
 公式ページ：https://qc-hybrid.github.io/CompQMB2026/
 
 3月6日〜8日：CompPhysHack2026 ハッカソン (先着40名ほど)
