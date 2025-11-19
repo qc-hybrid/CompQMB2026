@@ -1,3 +1,5 @@
+# International Events in Computational Physics, March 2026 (CompQMB2026 & CompPhysHack2026)
+
 2026年3月、計算物理分野の国際イベントが2つ連続して開催されます。
 
 # 3月2日〜5日：Current and Future Computational Approaches to Quantum Many-Body Systems 2026 (CompQMB2026) 国際会議
@@ -17,3 +19,19 @@ CompQMB2026 では、応用数学と計算物理をつなぐ国際コミュニ�
 なお、これらのイベントに続いて、同領域も共催する 「計算物理春の学校2026」 が那覇にて開催されます。
 https://compphysschool.github.io/2026/
 
+====================================================================================================
+In March 2026, two international events in computational physics will be held consecutively.
+
+# March 2–5: Current and Future Computational Approaches to Quantum Many-Body Systems 2026 (CompQMB2026)
+Official website: https://qc-hybrid.github.io/CompQMB2026/
+Co-organized by the JSPS Scientific Transformation Area B “Quantum–Classical Hybrid” and JST ASPIRE “Forging a global research network for quantum information and quantum biology.”
+
+# March 6–8: CompPhysHack2026 (Hackathon, approx. 40 participants)
+Official website: https://qc-hybrid.github.io/CompPhysHack2026/
+
+CompQMB2026 aims to foster an international community bridging applied mathematics and computational physics.
+The conference will cover a broad range of topics connecting these fields, with a focus on tensor networks, quantum computing, and numerical methods for quantum many-body systems.
+
+The subsequent CompPhysHack2026 will focus on generative-AI-assisted computational physics coding, offering a hands-on opportunity to learn modern research practices. The program will be valuable not only for students and postdocs currently engaged in research, but also for faculty seeking to reskill or update their computational expertise.
+
+We warmly welcome participants from a wide range of fields, including physics, mathematics, computational science, and quantum information.
