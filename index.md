@@ -68,6 +68,7 @@ The deadline for registration is January 31, 2026.
 * Nayuta Takemori (Osaka University, Japan)
 * Lei Wang (Institute of Physics Chinese Academy of Sciences, Beijing, China)
 * Seiji Yunoki (Riken, Japan)
+* Jie Wang (AMSS-CAS, Beijing, China)
 * ...
 
 
