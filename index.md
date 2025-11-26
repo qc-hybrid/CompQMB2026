@@ -62,6 +62,7 @@ The deadline for registration is January 31, 2026.
 
 * Sangkook Choi (KIAS, Korea)
 * Kazu Ghalamkari (Technical University of Denmark, Denmark)
+* Emanuel Gull (University of Warsaw, Poland/University of Michigan, USA)
 * Ying-Jer Kao (National Taiwan University, Taiwan)
 * Chusei Kiumi (Osaka University, Japan)
 * Emi Minamitani (Osaka University, Japan)
