@@ -65,6 +65,7 @@ The deadline for registration is January 31, 2026.
 * Emanuel Gull (University of Warsaw, Poland/University of Michigan, USA)
 * Ying-Jer Kao (National Taiwan University, Taiwan)
 * Chusei Kiumi (Osaka University, Japan)
+* Hyun-Yong Lee (Korea University Sejong Campus, Korea)
 * Emi Minamitani (Osaka University, Japan)
 * Nayuta Takemori (Osaka University, Japan)
 * Zechen Tang (Tsinghua University, China)
