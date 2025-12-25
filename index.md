@@ -55,6 +55,8 @@ The deadline for registration is January 31, 2026.
 
 [Registration form](https://forms.gle/xRE878BgyQF4JthD9)
 
+**Travel support**: A limited number of travel grants may be available for students and researchers with limited budgets. If you wish to apply for travel support, please indicate this in the remarks section of the registration form.
+
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)
 
@@ -67,6 +69,7 @@ The deadline for registration is January 31, 2026.
 * Chusei Kiumi (Osaka University, Japan)
 * Hyun-Yong Lee (Korea University Sejong Campus, Korea)
 * Emi Minamitani (Osaka University, Japan)
+* Seishiro Ono (ISSP, University of Tokyo, Japan)
 * Nayuta Takemori (Osaka University, Japan)
 * Zechen Tang (Tsinghua University, China)
 * Tatsuhiko Tsunoda (University of Tokyo, Japan)
