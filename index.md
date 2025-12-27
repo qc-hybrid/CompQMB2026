@@ -71,6 +71,7 @@ The deadline for registration is January 31, 2026.
 * Emi Minamitani (Osaka University, Japan)
 * Seishiro Ono (ISSP, University of Tokyo, Japan)
 * Nayuta Takemori (Osaka University, Japan)
+* Takeru Yokota (Osaka Institute of Technology, Japan)
 * Zechen Tang (Tsinghua University, China)
 * Tatsuhiko Tsunoda (University of Tokyo, Japan)
 * Lei Wang (Institute of Physics Chinese Academy of Sciences, China)
