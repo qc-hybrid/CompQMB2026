@@ -1,0 +1,93 @@
+# Overview of the schedule (v3)
+
+Changes from `schedule2.md`:
+- No coffee break right before lunch (the 11:30–12:00 slot is removed).
+- Lunch is shortened to **75 min** (1h15).
+- This creates **+45 min/day**, which is used to add **one extra invited talk per day** (total invited slots: **20**).
+- The coffee break right before the poster session is removed on March 3 and March 4, and used to add one contributed talk slot each day.
+
+## Monday, March 2
+- **[Session 1](#session-1)** (09:00–10:15, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (10:15–10:45, 30 min)
+- **[Session 2](#session-2)** (10:45–11:30, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **[Session 3](#session-3)** (11:30–12:15, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **Lunch** (12:15–13:30, 75 min)
+- **[Session 4](#session-4)** (13:30–14:45, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (14:45–15:15, 30 min)
+- **[Session 5](#session-5)** (15:15–16:30, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (16:30–17:00, 30 min)
+- **[Session 6](#session-6)** (17:00–17:45, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **End of day**
+
+## Tuesday, March 3
+- **[Session 7](#session-7)** (09:00–10:15, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (10:15–10:45, 30 min)
+- **[Session 8](#session-8)** (10:45–11:30, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **[Session 9](#session-9)** (11:30–12:15, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **Lunch** (12:15–13:30, 75 min)
+- **[Session 10](#session-10)** (13:30–14:45, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (14:45–15:15, 30 min)
+- **[Session 11](#session-11)** (15:15–16:30, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
+- **Poster session** (17:00–19:00, 120 min)
+- **Banquet** (19:00–21:00)
+
+## Wednesday, March 4
+- **[Session 12](#session-12)** (09:00–10:15, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (10:15–10:45, 30 min)
+- **[Session 13](#session-13)** (10:45–11:30, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **[Session 14](#session-14)** (11:30–12:15, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **Lunch** (12:15–13:30, 75 min)
+- **[Session 15](#session-15)** (13:30–14:45, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (14:45–15:15, 30 min)
+- **[Session 16](#session-16)** (15:15–16:30, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
+- **Poster session** (17:00–19:00, 120 min)
+- **End of day**
+
+## Thursday, March 5
+- **[Session 17](#session-17)** (09:00–10:15, 75 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+- **Coffee break** (10:15–10:45, 30 min)
+- **[Session 18](#session-18)** (10:45–11:30, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **[Session 19](#session-19)** (11:30–12:15, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **[Session 20](#session-20)** (12:15–13:00, 45 min)
+  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+- **Closing remarks** (13:00–13:15, 15 min)
+- **End of conference** (13:15)
+- **Free discussion time** (13:15–18:00)
+
+## Summary
+- **Invited talks**: 20 talks (45 min each)
+- **Contributed talks**: 12 talks (30 min each; 3 on March 2, 4 on March 3, 4 on March 4, 1 on March 5)
+  - Sessions with 1 invited talk and 1 contributed talk: 10 sessions
+  - Sessions with 1 invited talk only: 10 sessions
+- **Poster sessions**: 2 sessions (March 3 and March 4, 17:00–19:00, 120 min each)
