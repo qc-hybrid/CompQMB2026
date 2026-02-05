@@ -8,42 +8,42 @@ Changes from `schedule2.md`:
 
 ## Monday, March 2
 - **[Session 1](#session-1)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Hiroshi Shinaoka** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 2](#session-2)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Ying-Jer Kao** (45 min): *Title TBA*
 - **[Session 3](#session-3)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Chusei Kiumi** (45 min): *Title TBA*
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 4](#session-4)** (13:30–14:45, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Seiji Yunoki** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 5](#session-5)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Jie Wang** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (16:30–17:00, 30 min)
 - **[Session 6](#session-6)** (17:00–17:45, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Seishiro Ono** (45 min): *Title TBA*
 - **End of day**
 
 ## Tuesday, March 3
 - **[Session 7](#session-7)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Tsuyoshi Okubo** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 8](#session-8)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Sota Yoshida** (45 min): *Title TBA*
 - **[Session 9](#session-9)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Sangkook Choi** (45 min): *Title TBA*
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 10](#session-10)** (13:30–14:45, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Qibin Zhao** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 11](#session-11)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Takeru Yokota** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
 - **Poster session** (17:00–19:00, 120 min)
@@ -51,20 +51,20 @@ Changes from `schedule2.md`:
 
 ## Wednesday, March 4
 - **[Session 12](#session-12)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Wataru Mizukami** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 13](#session-13)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Emi Minamitani** (45 min): *Title TBA*
 - **[Session 14](#session-14)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Taira Takano** (45 min): *Title TBA*
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 15](#session-15)** (13:30–14:45, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Emanuel Gull(tentative)** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 16](#session-16)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Kazu Ghalamkari** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
 - **Poster session** (17:00–19:00, 120 min)
@@ -72,15 +72,15 @@ Changes from `schedule2.md`:
 
 ## Thursday, March 5
 - **[Session 17](#session-17)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Nayuta Takemori** (45 min): *Title TBA*
   - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 18](#session-18)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Lei Wang(tentative)** (45 min): *Title TBA*
 - **[Session 19](#session-19)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): *Title TBA*
 - **[Session 20](#session-20)** (12:15–13:00, 45 min)
-  - **Invited talk**: **Speaker TBA** (45 min): *Title TBA*
+  - **Invited talk**: **Hyun-Yong Lee** (45 min): *Title TBA*
 - **Closing remarks** (13:00–13:15, 15 min)
 - **End of conference** (13:15)
 - **Free discussion time** (13:15–18:00)
