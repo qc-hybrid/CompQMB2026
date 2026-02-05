@@ -102,7 +102,7 @@ Changes from `schedule2.md`:
 |  | SangKook Choi | ✓ | <mark>✓</mark> | ✓ | ✓ |
 |  | Nayuta Takemori |  | ✓ | ✓ | <mark>✓</mark> |
 |  | Emi Minamitani |  | ✓ | <mark>✓</mark> |  |
-| Tsuoshi Okubo | Tsuoshi Okubo | ✓ | <mark>✓</mark> | ✓ | ✓ | 
+| Tsuyoshi Okubo | Tsuyoshi Okubo | ✓ | <mark>✓</mark> | ✓ | ✓ | 
 |  | Ying-Jer Kao | <mark>✓</mark> | ✓ |✓  | ✓ |
 |  | Hyun-Young Lee | * | * | * | <mark>*</mark> | 
 | Wataru Mizukami | Wataru Mizukami | ✓ | ✓ | <mark>✓</mark> | ✓ |
