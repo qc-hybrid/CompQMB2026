@@ -91,3 +91,29 @@ Changes from `schedule2.md`:
   - Sessions with 1 invited talk and 1 contributed talk: 10 sessions
   - Sessions with 1 invited talk only: 10 sessions
 - **Poster sessions**: 2 sessions (March 3 and March 4, 17:00–19:00, 120 min each)
+
+## (internal) Available days (* unconfirmed)
+| Inviter | Invited  | Mar.2 | Mar.3 | Mar.4 |Mar.5|
+|---|---|---|---|---|---|
+| Hiroshi Shinaoka | Hiroshi Shinaoka | <mark>✓</mark> | ✓ | ✓ | ✓ |
+|  | Jie Wang | <mark>✓</mark> |✓  |✓  |✓  |
+|  | Emanuel Gull | * | * | <mark>*</mark> | * | 
+|  | Lei Wang | * | * | * | <mark>*</mark> | 
+|  | SangKook Choi | ✓ | <mark>✓</mark> | ✓ | ✓ |
+|  | Nayuta Takemori |  | ✓ | ✓ | <mark>✓</mark> |
+|  | Emi Minamitani |  | ✓ | <mark>✓</mark> |  |
+| Tsuoshi Okubo | Tsuoshi Okubo | ✓ | <mark>✓</mark> | ✓ | ✓ | 
+|  | Ying-Jer Kao | <mark>✓</mark> | ✓ |✓  | ✓ |
+|  | Hyun-Young Lee | * | * | * | <mark>*</mark> | 
+| Wataru Mizukami | Wataru Mizukami | ✓ | ✓ | <mark>✓</mark> | ✓ |
+|  | Chusei Kiumi | <mark>✓</mark> | ✓ | ✓ | ✓ |
+|  | Sota Yoshida | ✓ | <mark>✓</mark> |  |  |
+|  | Taira Takano | ✓ | ✓ | <mark>✓</mark> | ✓ |
+| Tatsuya Yokota | Kazu Ghalamkari | ✓ | ✓ | <mark>✓</mark> | ✓ |
+| Qibin Zhao | Qibin Zhao | ✓ | <mark>✓</mark> | ✓ | ✓ | 
+|  | Seiji Yunoki | <mark>✓</mark> | ✓ |  |  |
+|  | Tatsuhiko Tsunoda | ✓ |✓  |✓  | <mark>✓</mark> |
+|  | Seishiro Ono | <mark>✓</mark> | ✓ | ✓ | ✓ |
+| Takahiro Misawa |  |  |  |  |  |
+| Ryosuke Akashi | Takeru Yokota | ✓ | <mark>✓</mark> | ✓ | ✓ |
+
