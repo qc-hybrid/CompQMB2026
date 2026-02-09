@@ -51,11 +51,15 @@ Free
 The number of participants is limited to roughly 100.
 We may close the registration once the number of participants reaches the limit.
 
-The deadline for registration is January 31, 2026.
+The deadline for registration is ~~January 31, 2026~~ February 19, 2026.
+**Applications for contributed talks are not accepted after January 31, 2026.**
 
 [Registration form](https://forms.gle/xRE878BgyQF4JthD9)
 
+
+<!--
 **Travel support**: A limited number of travel grants may be available for students and researchers with limited budgets. If you wish to apply for travel support, please indicate this in the remarks section of the registration form.
+-->
 
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)
