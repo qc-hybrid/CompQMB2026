@@ -28,7 +28,7 @@ March 2 - 5, 2026
 -->
 
 # Program
-[A tentative schedule](schedule.html)
+[A tentative schedule](schedule3.html)
 
 # Venue
 那覇市職員厚生会 Naha Kouseikai ([Google Map](https://maps.app.goo.gl/MRRnJZMSgkmPLGAv7), GPS: 26.223279029350884, 127.69395848465435)
