@@ -1,84 +1,86 @@
-# Overview of the schedule (v3)
+# Overview of the schedule 
 
+<!--
 Changes from `schedule2.md`:
 - No coffee break right before lunch (the 11:30–12:00 slot is removed).
 - Lunch is shortened to **75 min** (1h15).
 - This creates **+45 min/day**, which is used to add **one extra invited talk per day** (total invited slots: **20**).
 - The coffee break right before the poster session is removed on March 3 and March 4, and used to add one contributed talk slot each day.
+-->
 
 ## Monday, March 2
 - **[Session 1](#session-1)** (09:00–10:15, 75 min)
   - **Invited talk**: **Hiroshi Shinaoka** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Contributed talk**: **Ken Inayoshi** (30 min): Solving the nonequilibrium Dyson equation with quantics tensor trains
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 2](#session-2)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Ying-Jer Kao** (45 min): *Title TBA*
+  - **Invited talk**: **Ying-Jer Kao** (45 min): Solving time-dependent PDE using TDVP
 - **[Session 3](#session-3)** (11:30–12:15, 45 min)
   - **Invited talk**: **Chusei Kiumi** (45 min): *Title TBA*
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 4](#session-4)** (13:30–14:45, 75 min)
   - **Invited talk**: **Seiji Yunoki** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Contributed talk**: **Yuchi He** (30 min): Topological and Trivial Valence-Bond Orders in Higher-Spin Kitaev Models
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 5](#session-5)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Jie Wang** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Invited talk**: **Jie Wang** (45 min): Scalable Ground-State Certification of Quantum Spin Systems via Structured Noncommutative Polynomial Optimization
+  - **Contributed talk**: **Takahiro Misawa** (30 min): Exotic superconductivity in the doped Kitaev quantum spin liquid
 - **Coffee break** (16:30–17:00, 30 min)
 - **[Session 6](#session-6)** (17:00–17:45, 45 min)
-  - **Invited talk**: **Seishiro Ono** (45 min): *Title TBA*
+  - **Invited talk**: **Seishiro Ono** (45 min): A new perspective on tensor-network contractions
 - **End of day**
 
 ## Tuesday, March 3
 - **[Session 7](#session-7)** (09:00–10:15, 75 min)
   - **Invited talk**: **Tsuyoshi Okubo** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Contributed talk**: **Soichiro Imamura** (30 min): Parallelization of the Hadamard Tests
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 8](#session-8)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Sota Yoshida** (45 min): *Title TBA*
+  - **Invited talk**: **Sota Yoshida** (45 min): Recent progress in nuclear interactions and structure theory
 - **[Session 9](#session-9)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Sangkook Choi** (45 min): *Title TBA*
+  - **Invited talk**: **Sangkook Choi** (45 min):  Quantum Zeno Monte Carlo methods for Quantum State preparation and Computing Observables
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 10](#session-10)** (13:30–14:45, 75 min)
-  - **Invited talk**: **Qibin Zhao** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Invited talk**: **Qibin Zhao** (45 min): Tensor Representation for Machine Learning: Efficiency and Reliability
+  - **Contributed talk**: **Christopher Zurek** (30 min): Tensor-Train based global optimization of molecular geometries
 - **Coffee break** (14:45–15:15, 30 min)
-- **[Session 11](#session-11)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Takeru Yokota** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
-- **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
+- **[Session 11](#session-11)** (15:15–17:00, 105 min)
+  - **Invited talk**: **Takeru Yokota** (45 min): Density functional theory based on functional renormalization group
+  - **Contributed talk**: **Amarjyoti Choudhury** (30 min): Switchable Chern number in van der Waals heterostructures
+  - **Contributed talk**: **Sanat Kumar Gogoi** (30 min): DFT+GW approach for prediction and identification of Charge Transition Levels 
 - **Poster session** (17:00–19:00, 120 min)
 - **Banquet** (19:00–21:00)
 
 ## Wednesday, March 4
 - **[Session 12](#session-12)** (09:00–10:15, 75 min)
   - **Invited talk**: **Wataru Mizukami** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Contributed talk**: **Hidetaka Manabe** (30 min): Tensor Network Formulation of Dequantized Algorithms for Ground State Energy Estimation
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 13](#session-13)** (10:45–11:30, 45 min)
-  - **Invited talk**: **Emi Minamitani** (45 min): *Title TBA*
+  - **Invited talk**: **Emi Minamitani** (45 min): Topology-Informed Structure–Property Relations in Amorphous Materials via Persistent Homology
 - **[Session 14](#session-14)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Taira Takano** (45 min): *Title TBA*
+  - **Invited talk**: **Taira Takano** (45 min): Markovianity and non-Markovianity of a Particle Bath with a Dirac Dispersion Relation and an SSH Configuration
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 15](#session-15)** (13:30–14:45, 75 min)
   - **Invited talk**: **Emanuel Gull(tentative)** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Contributed talk**: **Shuo Yang** (30 min): Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage
 - **Coffee break** (14:45–15:15, 30 min)
-- **[Session 16](#session-16)** (15:15–16:30, 75 min)
-  - **Invited talk**: **Kazu Ghalamkari** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
-- **Contributed talk**: **Speaker TBA** (30 min): *Title TBA* (16:30–17:00)
+- **[Session 16](#session-16)** (15:15–17:00, 105 min)
+  - **Invited talk**: **Kazu Ghalamkari** (45 min): Tensor Factorization Meets Deformed Information Geometry: Convex Relaxation under Deformed Algebra
+  - **Contributed talk**: **Viktor Khinevich** (30 min): Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quantum Computers
+  - **Contributed talk**: **Wen-Lin Tu** (30 min): Low-temperature Gibbs state representation by matrix product states
 - **Poster session** (17:00–19:00, 120 min)
 - **End of day**
 
 ## Thursday, March 5
 - **[Session 17](#session-17)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Nayuta Takemori** (45 min): *Title TBA*
-  - **Contributed talk**: **Speaker TBA** (30 min): *Title TBA*
+  - **Invited talk**: **Nayuta Takemori** (45 min): Recent work on k-RDM estimation and quasiperiodic quantum error-correcting codes
+  - **Contributed talk**: **Somayeh Ahmadkhani** (30 min): Quantum-Classical Consistency of Machine Learning Force Field with QMMM Simulations
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 18](#session-18)** (10:45–11:30, 45 min)
   - **Invited talk**: **Lei Wang(tentative)** (45 min): *Title TBA*
 - **[Session 19](#session-19)** (11:30–12:15, 45 min)
-  - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): *Title TBA*
+  - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): Quantum Computing and Deep Learning Accelerate Precision Medicine
 - **[Session 20](#session-20)** (12:15–13:00, 45 min)
   - **Invited talk**: **Hyun-Yong Lee** (45 min): *Title TBA*
 - **Closing remarks** (13:00–13:15, 15 min)
@@ -92,6 +94,7 @@ Changes from `schedule2.md`:
   - Sessions with 1 invited talk only: 10 sessions
 - **Poster sessions**: 2 sessions (March 3 and March 4, 17:00–19:00, 120 min each)
 
+<!-- 
 ## (internal) Available days (* unconfirmed)
 | Inviter | Invited  | Mar.2 | Mar.3 | Mar.4 |Mar.5|
 |---|---|---|---|---|---|
@@ -116,4 +119,5 @@ Changes from `schedule2.md`:
 |  | Seishiro Ono | <mark>✓</mark> | ✓ | ✓ | ✓ |
 | Takahiro Misawa |  |  |  |  |  |
 | Ryosuke Akashi | Takeru Yokota | ✓ | <mark>✓</mark> | ✓ | ✓ |
+-->
 
