@@ -68,7 +68,7 @@ Changes from `schedule2.md`:
 - **[Session 16](#session-16)** (15:15–17:00, 105 min)
   - **Invited talk**: **Kazu Ghalamkari** (45 min): Tensor Factorization Meets Deformed Information Geometry: Convex Relaxation under Deformed Algebra
   - **Contributed talk**: **Viktor Khinevich** (30 min): Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quantum Computers
-  - **Contributed talk**: **Wen-Lin Tu** (30 min): Low-temperature Gibbs state representation by matrix product states
+  - **Contributed talk**: **Wei-Lin Tu** (30 min): Low-temperature Gibbs state representation by matrix product states
 - **Poster session** (17:00–19:00, 120 min)
 - **End of day**
 
