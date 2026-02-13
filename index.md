@@ -68,20 +68,25 @@ The deadline for registration is ~~January 31, 2026~~ February 19, 2026.
 
 * Sangkook Choi (KIAS, Korea)
 * Kazu Ghalamkari (Technical University of Denmark, Denmark)
-* Emanuel Gull (University of Warsaw, Poland/University of Michigan, USA)
+* ~~Emanuel Gull (University of Warsaw, Poland/University of Michigan, USA)~~
 * Ying-Jer Kao (National Taiwan University, Taiwan)
 * Chusei Kiumi (Osaka University, Japan)
 * Hyun-Yong Lee (Korea University Sejong Campus, Korea)
 * Emi Minamitani (Osaka University, Japan)
+* Wataru Mizukami (Osaka University, Japan)
+* Tsuyoshi Okubo (University of Tokyo, Japan)
 * Seishiro Ono (ISSP, University of Tokyo, Japan)
+* Hiroshi Shinaoka (Saitama University, Japan)
+* Taira Takano (Kyushu University, Japan)
 * Nayuta Takemori (Osaka University, Japan)
-* Takeru Yokota (Osaka Institute of Technology, Japan)
-* Zechen Tang (Tsinghua University, China)
+* ~~Zechen Tang (Tsinghua University, China)~~
 * Tatsuhiko Tsunoda (University of Tokyo, Japan)
-* Lei Wang (Institute of Physics Chinese Academy of Sciences, China)
-* Seiji Yunoki (Riken, Japan)
 * Jie Wang (AMSS-CAS, China)
-* ...
+* Lei Wang (Institute of Physics Chinese Academy of Sciences, China)
+* Takeru Yokota (Osaka Institute of Technology, Japan)
+* Sota Yoshida (Utsunomiya University/RIKEN, Japan)
+* Seiji Yunoki (Riken, Japan)
+* Qibin Zhao (Riken, Japan)
 
 
 # Organizers (in alphabetical order)
