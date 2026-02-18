@@ -4,7 +4,7 @@
 Proposed changes:
 - State "Room open ~8:45 (approximate)" at the start of each day.
 - Day 1: Start at 9:15, add 5-min opening. Free 20 min by shortening coffee breaks 30→25 min×3 (=15 min) and lunch 75→70 min (=5 min).
-- Day 2 onward: Start at 9:05. Absorb 5 min by shortening lunch 75→70 min.
+- Day 2 onward: 9:00–9:05 administrative announcements (optional), first session at 9:05. Absorb 5 min by shortening lunch 75→70 min.
 -->
 
 ## Monday, March 2
@@ -33,6 +33,7 @@ Proposed changes:
 
 ## Tuesday, March 3
 - **Room open**: ~8:45 (approximate)
+- **Administrative announcements** (09:00–09:05, 5 min)
 - **[Session 7](#session-7)** (09:05–10:20, 75 min)
   - **Invited talk**: **Tsuyoshi Okubo** (45 min): *Title TBA*
   - **Contributed talk**: **Soichiro Imamura** (30 min): Parallelization of the Hadamard Tests
@@ -55,6 +56,7 @@ Proposed changes:
 
 ## Wednesday, March 4
 - **Room open**: ~8:45 (approximate)
+- **Administrative announcements** (09:00–09:05, 5 min)
 - **[Session 12](#session-12)** (09:05–10:20, 75 min)
   - **Invited talk**: **Wataru Mizukami** (45 min): *Title TBA*
   - **Contributed talk**: **Hidetaka Manabe** (30 min): Tensor Network Formulation of Dequantized Algorithms for Ground State Energy Estimation
@@ -77,6 +79,7 @@ Proposed changes:
 
 ## Thursday, March 5
 - **Room open**: ~8:45 (approximate)
+- **Administrative announcements** (09:00–09:05, 5 min)
 - **[Session 17](#session-17)** (09:05–10:20, 75 min)
   - **Invited talk**: **Nayuta Takemori** (45 min): Recent work on k-RDM estimation and quasiperiodic quantum error-correcting codes
   - **Contributed talk**: **Somayeh Ahmadkhani** (30 min): Quantum-Classical Consistency of Machine Learning Force Field with QMMM Simulations
