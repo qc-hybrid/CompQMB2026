@@ -20,7 +20,7 @@ Changes from `schedule2.md`:
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 4](#session-4)** (13:30–14:45, 75 min)
   - **Invited talk**: **Seiji Yunoki** (45 min): *Title TBA*
-  - **Contributed talk**: **Yuchi He** (30 min): Topological and Trivial Valence-Bond Orders in Higher-Spin Kitaev Models
+  - **Contributed talk**: **Atsushi Hariki** (30 min): Integrating Quantum Embedding Theory and X-ray Spectroscopy in Strongly Correlated Materials
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 5](#session-5)** (15:15–16:30, 75 min)
   - **Invited talk**: **Jie Wang** (45 min): Scalable Ground-State Certification of Quantum Spin Systems via Structured Noncommutative Polynomial Optimization
@@ -62,8 +62,8 @@ Changes from `schedule2.md`:
   - **Invited talk**: **Taira Takano** (45 min): Markovianity and non-Markovianity of a Particle Bath with a Dirac Dispersion Relation and an SSH Configuration
 - **Lunch** (12:15–13:30, 75 min)
 - **[Session 15](#session-15)** (13:30–14:45, 75 min)
-  - **Invited talk**: **Emanuel Gull(tentative)** (45 min): *Title TBA*
-  - **Contributed talk**: **Shuo Yang** (30 min): Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage
+  - **Invited talk**: **Youhei Yamaji** (45 min): Generator coordinate method with variational neural quantum states and its application to cuprate superconductors
+  - **Contributed talk**: **Tomoya Shiota** (30 min): Dataset Integration Strategy for Improving Generalizability of Universal MLIPs across Organic and Inorganic Systems
 - **Coffee break** (14:45–15:15, 30 min)
 - **[Session 16](#session-16)** (15:15–17:00, 105 min)
   - **Invited talk**: **Kazu Ghalamkari** (45 min): Tensor Factorization Meets Deformed Information Geometry: Convex Relaxation under Deformed Algebra
