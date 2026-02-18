@@ -11,7 +11,7 @@ Proposed changes:
 - **Room open**: ~8:45 (approximate)
 - **Opening** (09:15–09:20, 5 min)
 - **[Session 1](#session-1)** (09:20–10:35, 75 min)
-  - **Invited talk**: **Hiroshi Shinaoka** (45 min): *Title TBA*
+  - **Invited talk**: **Hiroshi Shinaoka** (45 min): Quantics tensor trains meet quantum field theory
   - **Contributed talk**: **Ken Inayoshi** (30 min): Solving the nonequilibrium Dyson equation with quantics tensor trains
 - **Coffee break** (10:35–11:00, 25 min)
 - **[Session 2](#session-2)** (11:00–11:45, 45 min)
