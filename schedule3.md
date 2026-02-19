@@ -87,6 +87,8 @@ Changes from `schedule2.md`:
 - **End of conference** (13:15)
 - **Free discussion time** (13:15–18:00)
 
+[List of poster presenters](poster_presenters.pdf)
+
 ## Summary
 - **Invited talks**: 20 talks (45 min each)
 - **Contributed talks**: 12 talks (30 min each; 3 on March 2, 4 on March 3, 4 on March 4, 1 on March 5)
