@@ -35,6 +35,10 @@ March 2 - 5, 2026
 
 The venue is located in Naha, Okinawa, Japan, which is accessible from the airport by public transportation.
 
+## Banquet venue
+**Party & Buffet Sky Garden OMOROMACHI** (Sky Garden), 1-1-2 Omoromachi, Naha, Okinawa — Daiwa Roynet Hotel 18F  
+[Google Map](https://maps.app.goo.gl/uEaA3Lj42NVi2i2d8)
+
 
 # Accommodations
 
