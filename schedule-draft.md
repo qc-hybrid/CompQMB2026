@@ -3,31 +3,31 @@
 <!--
 Proposed changes:
 - State "Room open ~8:45 (approximate)" at the start of each day.
-- Day 1: Start at 9:15, add 5-min opening. Free 20 min by shortening coffee breaks 30→25 min×3 (=15 min) and lunch 75→70 min (=5 min).
+- Day 1: Room open ~8:45. Opening 9:25–9:30, Session 1 from 9:30. Lunch 70 min, coffee breaks 25 min; day ends ~17:55.
 - Day 2 onward: 9:00–9:05 administrative announcements (optional), first session at 9:05. Absorb 5 min by shortening lunch 75→70 min.
 -->
 
 ## Monday, March 2
 - **Room open**: ~8:45 (approximate)
-- **Opening** (09:15–09:20, 5 min)
-- **[Session 1](#session-1)** (09:20–10:35, 75 min)
+- **Opening** (09:25–09:30, 5 min)
+- **[Session 1](#session-1)** (09:30–10:45, 75 min)
   - **Invited talk**: **Hiroshi Shinaoka** (45 min): Quantics tensor trains meet quantum field theory
   - **Contributed talk**: **Ken Inayoshi** (30 min): Solving the nonequilibrium Dyson equation with quantics tensor trains
-- **Coffee break** (10:35–11:00, 25 min)
-- **[Session 2](#session-2)** (11:00–11:45, 45 min)
+- **Coffee break** (10:45–11:10, 25 min)
+- **[Session 2](#session-2)** (11:10–11:55, 45 min)
   - **Invited talk**: **Ying-Jer Kao** (45 min): Solving time-dependent PDE using TDVP
-- **[Session 3](#session-3)** (11:45–12:30, 45 min)
+- **[Session 3](#session-3)** (11:55–12:40, 45 min)
   - **Invited talk**: **Chusei Kiumi** (45 min): *Title TBA*
-- **Lunch** (12:30–13:40, 70 min)
-- **[Session 4](#session-4)** (13:40–14:55, 75 min)
+- **Lunch** (12:40–13:50, 70 min)
+- **[Session 4](#session-4)** (13:50–15:05, 75 min)
   - **Invited talk**: **Seiji Yunoki** (45 min): *Title TBA*
   - **Contributed talk**: **Atsushi Hariki** (30 min): Integrating Quantum Embedding Theory and X-ray Spectroscopy in Strongly Correlated Materials
-- **Coffee break** (14:55–15:20, 25 min)
-- **[Session 5](#session-5)** (15:20–16:35, 75 min)
+- **Coffee break** (15:05–15:30, 25 min)
+- **[Session 5](#session-5)** (15:30–16:45, 75 min)
   - **Invited talk**: **Jie Wang** (45 min): Scalable Ground-State Certification of Quantum Spin Systems via Structured Noncommutative Polynomial Optimization
   - **Contributed talk**: **Takahiro Misawa** (30 min): Exotic superconductivity in the doped Kitaev quantum spin liquid
-- **Coffee break** (16:35–17:00, 25 min)
-- **[Session 6](#session-6)** (17:00–17:45, 45 min)
+- **Coffee break** (16:45–17:10, 25 min)
+- **[Session 6](#session-6)** (17:10–17:55, 45 min)
   - **Invited talk**: **Seishiro Ono** (45 min): A new perspective on tensor-network contractions
 - **End of day**
 
