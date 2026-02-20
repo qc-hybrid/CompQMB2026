@@ -1,4 +1,14 @@
-# Overview of the schedule 
+# Overview of the schedule
+
+## Table of contents
+- [Overview of the schedule](#overview-of-the-schedule)
+  - [Table of contents](#table-of-contents)
+  - [Monday, March 2](#monday-march-2)
+  - [Tuesday, March 3](#tuesday-march-3)
+  - [Wednesday, March 4](#wednesday-march-4)
+  - [Thursday, March 5](#thursday-march-5)
+  - [List of poster presenters](#list-of-poster-presenters)
+  - [Summary](#summary)
 
 <!--
 Changes from `schedule2.md`:
@@ -10,7 +20,7 @@ Changes from `schedule2.md`:
 
 ## Monday, March 2
 - **[Session 1](#session-1)** (09:00–10:15, 75 min)
-  - **Invited talk**: **Hiroshi Shinaoka** (45 min): *Title TBA*
+  - **Invited talk**: **Hiroshi Shinaoka** (45 min): Quantics tensor trains meet quantum field theory
   - **Contributed talk**: **Ken Inayoshi** (30 min): Solving the nonequilibrium Dyson equation with quantics tensor trains
 - **Coffee break** (10:15–10:45, 30 min)
 - **[Session 2](#session-2)** (10:45–11:30, 45 min)
@@ -48,7 +58,7 @@ Changes from `schedule2.md`:
   - **Invited talk**: **Takeru Yokota** (45 min): Density functional theory based on functional renormalization group
   - **Contributed talk**: **Amarjyoti Choudhury** (30 min): Switchable Chern number in van der Waals heterostructures
   - **Contributed talk**: **Sanat Kumar Gogoi** (30 min): DFT+GW approach for prediction and identification of Charge Transition Levels 
-- **Poster session** (17:00–19:00, 120 min)
+- **[Poster session](poster_presenters.pdf)** (17:00–19:00, 120 min)
 - **Banquet** (19:00–21:00)
 
 ## Wednesday, March 4
@@ -69,7 +79,7 @@ Changes from `schedule2.md`:
   - **Invited talk**: **Kazu Ghalamkari** (45 min): Tensor Factorization Meets Deformed Information Geometry: Convex Relaxation under Deformed Algebra
   - **Contributed talk**: **Viktor Khinevich** (30 min): Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quantum Computers
   - **Contributed talk**: **Wei-Lin Tu** (30 min): Low-temperature Gibbs state representation by matrix product states
-- **Poster session** (17:00–19:00, 120 min)
+- **[Poster session](poster_presenters.pdf)** (17:00–19:00, 120 min)
 - **End of day**
 
 ## Thursday, March 5
@@ -87,7 +97,8 @@ Changes from `schedule2.md`:
 - **End of conference** (13:15)
 - **Free discussion time** (13:15–18:00)
 
-[List of poster presenters](poster_presenters.pdf)
+## List of poster presenters
+[List of poster presenters](poster_presenters.pdf) (PDF)
 
 ## Summary
 - **Invited talks**: 20 talks (45 min each)
