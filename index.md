@@ -27,8 +27,8 @@ March 2 - 5, 2026
 * Each presenter will have 1 minute to deliver their flash talk.
 -->
 
-# Program
-[A tentative schedule](schedule3.html)
+# Schedule (talks and posters)
+[detailed schedule](schedule3.html)
 
 # Venue
 那覇市職員厚生会 Naha Kouseikai ([Google Map](https://maps.app.goo.gl/MRRnJZMSgkmPLGAv7), GPS: 26.223279029350884, 127.69395848465435)
@@ -55,10 +55,9 @@ Free
 The number of participants is limited to roughly 100.
 We may close the registration once the number of participants reaches the limit.
 
-The deadline for registration is ~~January 31, 2026~~ February 19, 2026.
-**Applications for contributed talks are not accepted after January 31, 2026.**
+**Registration is closed.** (The deadline was February 19, 2026. Applications for contributed talks were not accepted after January 31, 2026.)
 
-[Registration form](https://forms.gle/xRE878BgyQF4JthD9)
+~~Registration form~~
 
 
 <!--
@@ -66,7 +65,7 @@ The deadline for registration is ~~January 31, 2026~~ February 19, 2026.
 -->
 
 # VISA Information
-[Application form](https://forms.office.com/r/rRDfCcq9P8)
+~~Application form~~
 
 # Invited speakers (in alphabetical order)
 
