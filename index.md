@@ -32,6 +32,7 @@ March 2 - 5, 2026
 
 # Venue
 **[Venue information (PDF)](assets/venue.pdf)**
+**Conference room is locked until 8:45--8:50.**
 
 那覇市職員厚生会 Naha Kouseikai ([Google Map](https://maps.app.goo.gl/MRRnJZMSgkmPLGAv7), GPS: 26.223279029350884, 127.69395848465435)
 
