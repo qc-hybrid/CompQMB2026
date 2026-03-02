@@ -35,7 +35,7 @@ Proposed changes:
 - **Room open**: ~8:45 (approximate)
 - **Administrative announcements** (09:00–09:05, 5 min)
 - **[Session 7](#session-7)** (09:05–10:20, 75 min)
-  - **Invited talk**: **Tsuyoshi Okubo** (45 min): *Title TBA*
+  - **Invited talk**: **Tsuyoshi Okubo** (45 min): Applications of Tensor Networks to Finite-Temperature Quantum States and Machine Learning
   - **Contributed talk**: **Soichiro Imamura** (30 min): Parallelization of the Hadamard Tests
 - **Coffee break** (10:20–10:50, 30 min)
 - **[Session 8](#session-8)** (10:50–11:35, 45 min)
