@@ -30,6 +30,9 @@ March 2 - 5, 2026
 # Schedule (talks and posters)
 [detailed schedule](schedule3.html)
 
+# Presentation files
+[Google Drive folder (PDF only)](https://drive.google.com/drive/folders/1kMdvzt-k5L8Q9ZtNZQPTuQA7F8fbgzQny7B6HllZ-Q2oLfHlUWQgCh283Tdo8BTAODGHev1R?usp=sharing) (folder of presentation PDFs)
+
 # Venue
 **[Venue information (PDF)](assets/venue.pdf)**
 **Conference room is locked until 8:45--8:50.**
