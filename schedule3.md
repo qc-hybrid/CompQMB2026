@@ -60,21 +60,21 @@ Proposed changes:
 - **[Session 12](#session-12)** (09:05–10:20, 75 min)
   - **Invited talk**: **Wataru Mizukami** (45 min): *Title TBA*
   - **Contributed talk**: **Hidetaka Manabe** (30 min): Tensor Network Formulation of Dequantized Algorithms for Ground State Energy Estimation
-- **Coffee break** (10:20–10:50, 30 min)
-- **[Session 13](#session-13)** (10:50–11:35, 45 min)
+- **Coffee break** (10:20–10:45, 25 min)
+- **[Session 13](#session-13)** (10:45–11:30, 45 min)
   - **Invited talk**: **Emi Minamitani** (45 min): Topology-Informed Structure–Property Relations in Amorphous Materials via Persistent Homology
-- **[Session 14](#session-14)** (11:35–12:20, 45 min)
+- **[Session 14](#session-14)** (11:30–12:15, 45 min)
   - **Invited talk**: **Taira Takano** (45 min): Markovianity and non-Markovianity of a Particle Bath with a Dirac Dispersion Relation and an SSH Configuration
-- **Lunch** (12:20–13:30, 70 min)
-- **[Session 15](#session-15)** (13:30–14:45, 75 min)
+- **Lunch** (12:15–13:55, 100 min)
+- **[Session 15](#session-15)** (13:55–15:10, 75 min)
   - **Invited talk**: **Youhei Yamaji** (45 min): Generator coordinate method with variational neural quantum states and its application to cuprate superconductors
   - **Contributed talk**: **Tomoya Shiota** (30 min): Dataset Integration Strategy for Improving Generalizability of Universal MLIPs across Organic and Inorganic Systems
-- **Coffee break** (14:45–15:15, 30 min)
-- **[Session 16](#session-16)** (15:15–17:00, 105 min)
+- **Coffee break** (15:10–15:35, 25 min)
+- **[Session 16](#session-16)** (15:35–17:20, 105 min)
   - **Invited talk**: **Kazu Ghalamkari** (45 min): Tensor Factorization Meets Deformed Information Geometry: Convex Relaxation under Deformed Algebra
   - **Contributed talk**: **Viktor Khinevich** (30 min): Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quantum Computers
   - **Contributed talk**: **Wei-Lin Tu** (30 min): Low-temperature Gibbs state representation by matrix product states
-- **Poster session** (17:00–19:00, 120 min)
+- **Poster session** (17:20–19:00, 100 min)
 - **End of day**
 
 ## Thursday, March 5
@@ -101,4 +101,4 @@ Proposed changes:
 - **Contributed talks**: 12 talks (30 min each; 3 on March 2, 4 on March 3, 4 on March 4, 1 on March 5)
   - Sessions with 1 invited talk and 1 contributed talk: 10 sessions
   - Sessions with 1 invited talk only: 10 sessions
-- **Poster sessions**: 2 sessions (March 3 and March 4, 17:00–19:00, 120 min each)
+- **Poster sessions**: 2 sessions (March 3: 17:00–19:00, 120 min; March 4: 17:20–19:00, 100 min)
