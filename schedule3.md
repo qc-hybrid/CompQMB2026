@@ -85,7 +85,7 @@ Proposed changes:
   - **Contributed talk**: **Somayeh Ahmadkhani** (30 min): Quantum-Classical Consistency of Machine Learning Force Field with QMMM Simulations
 - **Coffee break** (10:20–10:50, 30 min)
 - **[Session 18](#session-18)** (10:50–11:35, 45 min)
-  - **Invited talk**: **Lei Wang(tentative)** (45 min): *Title TBA*
+  - **Invited talk**: **Lei Wang(tentative)** (45 min): Neural Canonical Transformations
 - **[Session 19](#session-19)** (11:35–12:20, 45 min)
   - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): Quantum Computing and Deep Learning Accelerate Precision Medicine
 - **[Session 20](#session-20)** (12:20–13:05, 45 min)
