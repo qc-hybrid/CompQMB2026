@@ -85,14 +85,15 @@ Proposed changes:
   - **Contributed talk**: **Somayeh Ahmadkhani** (30 min): Quantum-Classical Consistency of Machine Learning Force Field with QMMM Simulations
 - **Coffee break** (10:20–10:50, 30 min)
 - **[Session 18](#session-18)** (10:50–11:35, 45 min)
-  - **Invited talk**: **Lei Wang(tentative)** (45 min): Neural Canonical Transformations
+  - **Invited talk**: **Lei Wang** (45 min): Neural Canonical Transformations
 - **[Session 19](#session-19)** (11:35–12:20, 45 min)
   - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): Quantum Computing and Deep Learning Accelerate Precision Medicine
 - **[Session 20](#session-20)** (12:20–13:05, 45 min)
-  - **Invited talk**: **Hyun-Yong Lee** (45 min): *Title TBA*
-- **Closing remarks** (13:05–13:20, 15 min)
-- **End of conference** (13:20)
-- **Free discussion time** (13:20–18:00)
+  - **Invited talk**: **Hyun-Yong Lee** (45 min): *Exploring Quantum Dynamics via Tensor Network and Complex Time Evolutio*
+- **Closing remarks** (13:05–13:10, 5 min)
+- **Excursion** (13:10–15:00, 110 min, Lunch near Shuri Castle)
+- **End of conference** (15:00)
+- **Free discussion time** (15:00–18:00, the conference room will be closed after 18:00)
 
 [List of poster presentations](poster_presenters.pdf)
 
