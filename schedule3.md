@@ -80,26 +80,25 @@ Proposed changes:
 ## Thursday, March 5
 - **Room open**: ~8:45 (approximate)
 - **Administrative announcements** (09:00–09:05, 5 min)
-- **[Session 17](#session-17)** (09:05–10:20, 75 min)
+- **[Session 17](#session-17)** (09:05–09:50, 45 min)
   - **Invited talk**: **Nayuta Takemori** (45 min): Recent work on k-RDM estimation and quasiperiodic quantum error-correcting codes
-  - **Contributed talk**: **Somayeh Ahmadkhani** (30 min): Quantum-Classical Consistency of Machine Learning Force Field with QMMM Simulations
-- **Coffee break** (10:20–10:50, 30 min)
-- **[Session 18](#session-18)** (10:50–11:35, 45 min)
+- **Coffee break** (09:50–10:20, 30 min)
+- **[Session 18](#session-18)** (10:20–11:05, 45 min)
   - **Invited talk**: **Lei Wang** (45 min): Neural Canonical Transformations
-- **[Session 19](#session-19)** (11:35–12:20, 45 min)
+- **[Session 19](#session-19)** (11:05–11:50, 45 min)
   - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): Quantum Computing and Deep Learning Accelerate Precision Medicine
-- **[Session 20](#session-20)** (12:20–13:05, 45 min)
+- **[Session 20](#session-20)** (11:50–12:35, 45 min)
   - **Invited talk**: **Hyun-Yong Lee** (45 min): *Exploring Quantum Dynamics via Tensor Network and Complex Time Evolutio*
-- **Closing remarks** (13:05–13:10, 5 min)
-- **Excursion** (13:10–15:00, 110 min, Lunch near Shuri Castle)
-- **End of conference** (15:00)
-- **Free discussion time** (15:00–18:00, the conference room will be closed after 18:00)
+- **Closing remarks** (12:35–12:40, 5 min)
+- **Excursion** (12:40–14:30, 110 min, Lunch near Shuri Castle)
+- **End of conference** (14:30)
+- **Free discussion time** (14:30–18:00, the conference room will be closed after 18:00)
 
 [List of poster presentations](poster_presenters.pdf)
 
 ## Summary
 - **Invited talks**: 20 talks (45 min each)
-- **Contributed talks**: 12 talks (30 min each; 3 on March 2, 4 on March 3, 4 on March 4, 1 on March 5)
-  - Sessions with 1 invited talk and 1 contributed talk: 10 sessions
-  - Sessions with 1 invited talk only: 10 sessions
+- **Contributed talks**: 11 talks (30 min each; 3 on March 2, 4 on March 3, 4 on March 4, 0 on March 5)
+  - Sessions with 1 invited talk and 1 contributed talk: 9 sessions
+  - Sessions with 1 invited talk only: 11 sessions
 - **Poster sessions**: 2 sessions (March 3: 17:00–19:00, 120 min; March 4: 17:20–19:00, 100 min)
