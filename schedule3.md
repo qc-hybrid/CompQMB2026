@@ -88,7 +88,7 @@ Proposed changes:
 - **[Session 19](#session-19)** (11:05–11:50, 45 min)
   - **Invited talk**: **Tatsuhiko Tsunoda** (45 min): Quantum Computing and Deep Learning Accelerate Precision Medicine
 - **[Session 20](#session-20)** (11:50–12:35, 45 min)
-  - **Invited talk**: **Hyun-Yong Lee** (45 min): *Exploring Quantum Dynamics via Tensor Network and Complex Time Evolutio*
+  - **Invited talk**: **Hyun-Yong Lee** (45 min): *Exploring Quantum Dynamics via Tensor Network and Complex Time Evolution*
 - **Closing remarks** (12:35–12:40, 5 min)
 - **Excursion** (12:40–14:30, 110 min, Lunch near Shuri Castle)
 - **End of conference** (14:30)
